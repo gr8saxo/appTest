@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {
-color:black;
+	background-color:black;
 }
 
 #nav {
@@ -26,6 +26,10 @@ margin-bottom:3px;
 #product {
 	width:35%;
 	height:20%;
+}
+
+#checkout {
+	float:right;
 }
 
 #caption {
