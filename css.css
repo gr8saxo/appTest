@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+color:black;
+}
+
+#nav {
+float:left;
+width:25%;
+height:100%;
+background-color:#333;
+}
+
+#abt_me, #store_head {
+width:75%;
+text-align:center;
+}
+
+#abt_me_content {
+z-index:1000;
+margin-left:25%;
+float:right;
+display:block;
+margin-top:-10%;
+height:100%;
+margin-bottom:3px;
+}
+
+#product {
+	width:30px;
+	height:30px;
+}
+
+#caption {
+color:white;
+font-size:12px;
+text-align:center;
+}
